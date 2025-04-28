@@ -2,7 +2,7 @@
 
 A modern GUI tool designed to help developers prepare their codebase for Large Language Model (LLM) analysis by condensing multiple source files into a single readable format or structured chunks.
 
-![Code Base Condenser](https://github.com/Sqygey/CodeCondenser/raw/main/screenshot.png)
+![Code Base Condenser](CodeCondenser_preview.png)
 
 ## Purpose
 
